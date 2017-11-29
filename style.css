@@ -68,7 +68,7 @@ body {
 	background: url("http://imageshack.com/a/img921/8896/mrSMhc.png");
 }
 .eightplus:hover {
-	background: url("http://imageshack.com/a/img921/3633/8caKWq.png");
+	background: url("http://imageshack.com/a/img921/3633/8caKWq.png"); transition-timing-function: ease;
 }
 .nine:hover {
 	background: url("http://imageshack.com/a/img924/3064/9QQUkW.png");
