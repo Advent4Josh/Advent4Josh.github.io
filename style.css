@@ -7,8 +7,14 @@ body {
 .one:hover {
 	background: url("http://imageshack.com/a/img924/9410/ovfYI5.png");
 }
+.two:hover {
+	background: url("http://imageshack.com/a/img923/1523/Q36R9E.png");
+}
 .cont:hover {
 	background: url("http://imageshack.com/a/img921/9499/2P4twb.png");
+}
+.return:hover {
+	background: url("http://imageshack.com/a/img922/6089/27N5qE.png");
 }
 .exit:hover {
 	background: url("http://imageshack.com/a/img922/8435/jWylyI.png");
